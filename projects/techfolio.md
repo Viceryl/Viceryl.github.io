@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/Computer clip M.jpeg
 title: "Tecchfolio"
 date: 2015
 published: true
